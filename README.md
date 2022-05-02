@@ -1,3 +1,4 @@
 # ProjetoPetShop
-Código Projeto do Petshop - Professor Gildarcio, Desenvolvimento de sistemas - Etec
-Feito por Felipe Gabriel e Guilherme Reis
+Código Projeto do Petshop -, Desenvolvimento de sistemas - Etec
+Feito por Felipe Gabriel, Guilherme Reis , Barbara Silva e Isabelle dos Santos.
+,
