@@ -1,3 +1,3 @@
 # ProjetoPetShop
-Código Projeto do Petshop - Desenvolvimento de sistemas/Etec - 
+Código Projeto do Petshop - 
 Feito por Felipe Gabriel, Guilherme Reis.
